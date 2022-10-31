@@ -1,0 +1,9 @@
+vorbote:
+  msg-sender:
+    tencent:
+      app-id: <Sample APP ID>
+      region: guangzhou
+      secret-id: <Sample ID>
+      secret-key: <Sample Key>
+      enabled: true
+      sign: <Sample SIGN>
